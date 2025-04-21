@@ -3,7 +3,7 @@
 ## 🗃️ Database  
 [AdventureWorks sample databases – SQL Server | Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/wideworldimporters-sample-databases)
 
-This project uses the **AdventureWorksDW2022** database. It is stored locally and version-controlled via a remote GitHub repository using **VS Code**, serving as part of a professional **BI Portfolio**.
+This project uses the **AdventureWorksDW2022** database (data updated). It is stored locally and version-controlled via a remote GitHub repository using **VS Code**, serving as part of a professional **BI Portfolio**.
 
 ---
 
