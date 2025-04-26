@@ -1,7 +1,7 @@
 # 📊 Internet Sales Analysis – AdventureWorks (SQL + Power BI)
 
 ## 🗃️ Database  
-[AdventureWorks sample databases – SQL Server | Microsoft Learn]([https://learn.microsoft.com/en-us/sql/samples/wideworldimporters-sample-databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+[AdventureWorks sample databases – SQL Server | Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 This project uses the **AdventureWorksDW2022** database (data updated). It is stored locally and version-controlled via a remote GitHub repository using **VS Code**, serving as part of a professional **BI Portfolio**.
 
