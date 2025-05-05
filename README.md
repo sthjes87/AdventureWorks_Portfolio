@@ -6,6 +6,8 @@
 This project uses the **AdventureWorksDW2022** database (updated version).  
 The database is stored locally and version-controlled via GitHub using **VS Code**, as part of my professional **BI Portfolio**.
 
+/AdventureWorks_Portfolio/![Dashboard Print](dashboard.png)
+
 ---
 
 ## 📎 Published Power BI Report
